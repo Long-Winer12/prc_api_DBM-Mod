@@ -6,7 +6,7 @@ module.exports = {
         preciseCheck: false,
         author: 'Long_Winer12',
         authorUrl: 'https://github.com/Long-Winer12/',
-        downloadURL: 'https://github.com/dbm-network/mods/blob/master/actions/store_json_from_webapi_MOD.js',
+        downloadURL: 'https://github.com/Long-Winer12/prc_api_DBM-Mod/blob/main/prc_api_MOD.js',
     },
 
     subtitle(data) {
