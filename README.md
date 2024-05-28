@@ -8,3 +8,6 @@ I reccomend having Debug Mode enabled so stuff is logged in the Bot Log and you 
 
 **Report any errors in a ticket in https://jestersoftware.xyz/discord and I'll get right back to you.**
 You can delete this file and the license after you download and extract the files.
+
+![image](https://github.com/Long-Winer12/prc_api_DBM-Mod/assets/138969873/386e8a53-a87d-48ab-aea4-87bbfc1b61ed)
+![image](https://github.com/Long-Winer12/prc_api_DBM-Mod/assets/138969873/db07c0f4-4270-474c-a974-9d831f7497cd)
